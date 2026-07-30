@@ -19,7 +19,7 @@ It's not just a game — it's a live demo of how different search strategies beh
 
 ---
 
-## 🖼️ Screenshots
+
 
 <div align="center">
 
