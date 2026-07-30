@@ -23,11 +23,11 @@ It's not just a game — it's a live demo of how different search strategies beh
 
 <div align="center">
 
-<img width="806" alt="Battle City Menu" src="screenshots/menu.png" />
+<img width="424" alt="Battle City — Main Menu" src="https://github.com/user-attachments/assets/39d41272-af46-4fc7-acb7-cb8259f65b89" />
 
-<img width="806" alt="Battle City Level 1 Start" src="screenshots/level1_start.png" />
+<img width="432" alt="Battle City — Level 1: Brick Maze" src="https://github.com/user-attachments/assets/a64c7a45-2dd8-4f3d-99db-cb3ed3d7404d" />
 
-<img width="806" alt="Battle City Gameplay" src="screenshots/gameplay.png" />
+<img width="431" alt="Battle City — Gameplay in Action" src="https://github.com/user-attachments/assets/1ddc0009-14ba-4c29-aee8-5787364c1a26" />
 
 </div>
 
